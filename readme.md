@@ -1,4 +1,6 @@
-We are going to have a micro-service to keep all data of user wallet. We need to have two API to expose them to other micro-services.
+We are going to have a micro-service to keep all data of user wallet. We need to have two APIs to expose them to other micro-services.
+It's important to say that this project was implemented just in 2 hours to showcase my coding style.
+So, of course, this project isn't a good choice for the production environment and doesn't meet requirements, and may cause concurrency issues.
 
 **Technologies Used**
 
